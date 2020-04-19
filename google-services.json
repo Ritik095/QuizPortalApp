@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635561387456",
+    "firebase_url": "https://quizportelapp.firebaseio.com",
+    "project_id": "quizportelapp",
+    "storage_bucket": "quizportelapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635561387456:android:f82b37bd00ed25755a9425",
+        "android_client_info": {
+          "package_name": "com.example.quizportelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635561387456-qml27f1ef7g5llmmnrph0bgfg9ok9nrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBilkgok-WWVQdbOg0Um_qLrkIa6dZlRyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635561387456-qml27f1ef7g5llmmnrph0bgfg9ok9nrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
